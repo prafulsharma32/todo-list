@@ -1,0 +1,28 @@
+.styled
+{
+  background-color: black;
+  color: white;
+}
+.margin
+{ margin:15px; 
+  
+}
+.bstyle{
+  color:black;
+  font-family: serif;
+  background-color: white;
+  
+}
+.margin1
+{
+  margin-top:20px;
+  margin-bottom:30px; 
+}
+li.ulist
+{ color:black;
+
+}
+li.ulist:hover {
+background-color:yellow;
+cursor: pointer;   
+}
